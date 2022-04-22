@@ -1,0 +1,65 @@
+
+
+body{
+    background-color: #9ADCFF;
+    padding:7% 15%;
+    position: relative;
+
+}
+
+/* navbar */
+.logo-btn{
+    font-size: 2rem;
+}
+.logo img{
+    height: 70px;
+    width: 70px;
+}
+
+.navbar-brand{
+    font-size: 50px;
+    color: #FF8AAE;
+
+}
+
+/* Game Body */
+
+h1{
+    color: #FF8AAE;
+}
+.row{
+    text-align: center;
+    padding-top: 7%;
+}
+
+.btn{
+    transition: 100ms;
+}
+.btn:hover{
+    background-color: rgba(255, 255, 255, 0.437);
+    transform:scale(1.2)
+}
+
+
+.refresh{
+    padding-top: 7%;
+}
+
+/* card */
+.card{
+    position: absolute;
+    top: 45%;
+    right: 42%;
+    height: 150px;
+    width: 240px;
+    background-color: #FFF89A;
+    padding: 10px 20px;
+    border: 5px solid #FFB2A6;
+}
+.card-text{
+    font-size: 35px;
+    color: #062a3d;
+
+}
+
+/* result */
